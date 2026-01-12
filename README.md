@@ -39,6 +39,8 @@ Simulation results are observed to ensure correctness of logic under all scenari
 
 ## Simulation Results
 
+HDL codes for the following modules and there respected testbench are uploaded above, for which following are the simulated results:
+
 ### 32-bit Adder Test Result
 ![Adder Test Result](images/adder_test_result.png)
 
@@ -57,5 +59,5 @@ Simulation results are observed to ensure correctness of logic under all scenari
 ---
 
 ## Notes
-This project emphasizes clean RTL coding practices, modular design, and basic verification concepts suitable for beginner-to-intermediate IC design and verification workflows.
+This project emphasizes clean RTL coding practices, modular design, and basic verification concepts.
 
